@@ -59,7 +59,7 @@
 
 ## Top Trail
 Top Trail es una aplicación realizada con Kotlin (vista utilizando Jetpack Compose) y Firebase.
-https://gitlab.com/grupo1920138/toptrail
+[TopTrail](https://gitlab.com/grupo1920138/toptrail)
 
 ## ERP Alumni
 A continuación, enlace a mi repositorio GitLab (y de mis compañeros) de este proyecto: https://gitlab.com/grup-3-erp-alumni/erp-alumni.git
