@@ -61,6 +61,10 @@
 Top Trail es una aplicación realizada con Kotlin (vista utilizando Jetpack Compose) y Firebase.
 [TopTrail](https://gitlab.com/grupo1920138/toptrail)
 
+## Squirrel Frontiers
+Squirrel Frontiers es un videojuego realizado con Unity y C#.
+[Squirrel Frontiers](https://github.com/alexgarciamartinez/Squirrel-Frontiers)
+
 ## ERP Alumni
 A continuación, enlace a mi repositorio GitLab (y de mis compañeros) de este proyecto: https://gitlab.com/grup-3-erp-alumni/erp-alumni.git
 
