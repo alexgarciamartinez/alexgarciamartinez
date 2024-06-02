@@ -41,6 +41,7 @@
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white&labelColor=101010)]()
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=white&labelColor=101010)]() 
+[![Unity](https://img.shields.io/badge/unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=%2361DAFB&labelColor=101010)]()
 
 <br/>  
 
