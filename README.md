@@ -7,7 +7,7 @@
 ### <div align="center">Buenas! Soy Alex, un desarrollador de software.</div>  
   
 
-- ⚡ Soy Alex, un desarrollador de software. 
+<!-- - ⚡ Soy Alex, un desarrollador de software. -->
   
 
 <br/>  
