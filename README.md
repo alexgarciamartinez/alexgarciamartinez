@@ -7,7 +7,7 @@
 ### <div align="center">Buenas! Soy Alex, un desarrollador de software.</div>  
   
 
-- ⚡ Actualmente estoy estudiando el grado superior de DAM  
+- ⚡ Soy Alex, un desarrollador de software. 
   
 
 <br/>  
